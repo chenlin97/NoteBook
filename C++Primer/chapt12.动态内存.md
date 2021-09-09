@@ -1,17 +1,17 @@
-## 第十二章：动态内存  
+# 第十二章：动态内存  
 
 ---
 - [第十二章：动态内存](#第十二章动态内存)
-- [智能指针](#智能指针)
-  - [shared_ptr](#shared_ptr)
-  - [直接管理内存](#直接管理内存)
-  - [new 与 shared_ptr 结合](#new-与-shared_ptr-结合)
-  - [unique_ptr](#unique_ptr)
-  - [weak_ptr](#weak_ptr)
-- [动态数组](#动态数组)
-  - [new 和 delete 数组](#new-和-delete-数组)
-  - [智能指针与动态数组](#智能指针与动态数组)
-  - [allocator 类](#allocator-类)
+  - [智能指针](#智能指针)
+    - [shared_ptr](#shared_ptr)
+    - [直接管理内存](#直接管理内存)
+    - [new 与 shared_ptr 结合](#new-与-shared_ptr-结合)
+    - [unique_ptr](#unique_ptr)
+    - [weak_ptr](#weak_ptr)
+  - [动态数组](#动态数组)
+    - [new 和 delete 数组](#new-和-delete-数组)
+    - [智能指针与动态数组](#智能指针与动态数组)
+    - [allocator 类](#allocator-类)
 
 ---
 
